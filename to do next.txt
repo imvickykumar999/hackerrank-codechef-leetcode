@@ -1,2 +1,2 @@
 
-https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+https://www.hackerrank.com/challenges/s10-quartiles/problem?isFullScreen=true
